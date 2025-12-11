@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "core_logic",
+    "cli",
+]
+# Use the latest resolver for best compatibility
+resolver = "2"
